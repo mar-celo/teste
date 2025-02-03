@@ -14,3 +14,13 @@ Quarto enables you to weave together content and executable code into a finished
 ```{r}
 1 + 1
 ```
+
+## Usando python
+
+```{python}
+
+# codigo em python
+
+
+a = 2 
+```
